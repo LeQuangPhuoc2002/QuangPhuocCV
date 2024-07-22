@@ -8,4 +8,5 @@ Skills
 - Developer Tools: Github, StartUML, Diagram, Figma
 
 https://lequangphuoc2002.github.io/QuangPhuocCV/
+
 Here is my CV. Please take a look.
